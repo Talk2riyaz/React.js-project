@@ -16,8 +16,8 @@ const Service = () => {
              </h1>
             </div>
             
-                    <div class="container-fluid row gy-4 mx-auto my-5">
-                            <div class="col-md-4 col-10 mx-auto ">
+                    <div class="container-fluid row gy-4 my-5">
+                            <div class="col-md-4 col-10 ">
                                <Card
                                   imgsrc={ img1 }
                                   title="Android"
