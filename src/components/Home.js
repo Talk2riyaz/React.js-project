@@ -6,7 +6,7 @@ import Common from "./Common"
 const Home = () => {
     return (
         <div>
-           <section id="header" className="mt-5">
+           <section id="header" className="my-5">
            <div className="container-fluid nav_bg ">
             <div className="row mt-5">
              <Common
