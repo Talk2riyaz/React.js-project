@@ -14,7 +14,7 @@ const About = () => {
              
              text="We are Team of Mern stack developer"
              imgsrc={hero2}
-             btn="Contact Us"
+             
              
              
              />
